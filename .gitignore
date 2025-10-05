@@ -1,0 +1,14 @@
+# R / Quarto
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+.Rprofile
+
+# Keys / secrets
+census-key.R
+
+# OS / editor
+.DS_Store
+*.swp
+
