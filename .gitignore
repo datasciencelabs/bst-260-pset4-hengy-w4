@@ -13,3 +13,8 @@ census-key.R
 *.swp
 
 census-key.R
+census-key.R
+.Rhistory
+.RData
+.Rproj.user
+.DS_Store
